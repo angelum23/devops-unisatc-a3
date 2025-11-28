@@ -1,3 +1,6 @@
+--teste acertivo
+
+# 🚀 Getting started with Strapi
 # Pipeline CI/CD DevOps - Strapi
 
 Este projeto implementa uma pipeline completa de CI/CD para uma aplicação Strapi usando GitHub Actions, Docker e Terraform.
