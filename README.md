@@ -1,10 +1,15 @@
 --testando falha
 
-# 🚀 Getting started with Strapi
+# Pipeline CI/CD DevOps - Strapi
+
+Este projeto implementa uma pipeline completa de CI/CD para uma aplicação Strapi usando GitHub Actions, Docker e Terraform.
+
+## 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
 ### `pnpm` 
+
 
 Instal pnpm. [Learn more](https://pnpm.io/installation#using-npm) 
 
